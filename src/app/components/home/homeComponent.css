@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+
+.logo-font {
+    font-family: 'Fredericka the Great', cursive;
+}
+.logo {
+    max-height: 200px;
+    max-width: 300px;
+    height: 160px;
+}
+.for-display {
+    display:inline-block;
+}
+.para {
+    font-size: 30px;
+}
+.logo-box {
+    max-height: 200px;
+    max-width: 300px;
+    height: 160px;
+    width: 140px;
+    background: aqua;
+    display:inline-block;
+}
+.searchlength {
+    width: 330px!important;
+}
