@@ -12,19 +12,19 @@ class StickyFooter extends Component {
                      </div>
                     <ul>
                         <li>
-                            <a class="nav-link" href="#">About &nbsp;&nbsp; |</a>
+                            <a class="nav-link color-change" href="#">About &nbsp;&nbsp; |</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">HelpDesk &nbsp;&nbsp; |</a>
+                            <a class="nav-link color-change" href="#">HelpDesk &nbsp;&nbsp; |</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Careers &nbsp;&nbsp; |</a>
+                            <a class="nav-link color-change" href="#">Careers &nbsp;&nbsp; |</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Privacy Policy &nbsp;&nbsp; |</a>
+                            <a class="nav-link color-change" href="#">Privacy Policy &nbsp;&nbsp; |</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#">Copyright Policy &nbsp;&nbsp; |</a>
+                            <a class="nav-link color-change" href="#">Copyright Policy &nbsp;&nbsp; |</a>
                         </li>
                     </ul>
                 </div>
